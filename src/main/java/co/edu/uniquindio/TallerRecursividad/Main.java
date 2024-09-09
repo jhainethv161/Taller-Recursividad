@@ -45,6 +45,10 @@ public class Main {
 
         //Prueba de calcularFibonnaci
         System.out.println("\nSucesion de fibonnacci en la posicion 10: " + calcularFibonacci(10));
+
+
+        System.out.println("En el ejercicio 9, lo que imprime es: \n 2 \n 2 \n 3" );
+        System.out.println("Un mejor nombre para la funcion es extraerFactoresPrimos ");
     }
 
     public static boolean esCodigoPrimoRecursivo(int codigo, int numero, int rep) {
